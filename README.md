@@ -9,3 +9,6 @@ Find temperature of any location
   - month: December
 - output (e.g.):
   - The weather in India in December is 90/70
+
+# Who is this for?
+- Individuals planning a vacation who want to check the weather for a specific location and date
