@@ -30,7 +30,7 @@ def get_weather():
        print(f"Error occurred: {e}")
 
    # find the min and max temp of specific place on a specific date.
-   # need to pay for this one
+   # need to pay for this feature on WeatherAPI
    # try:
    #     # Make the API request
    #     response = requests.get(endpoint)
